@@ -9,14 +9,16 @@ PCGen runs on Windows, Mac OS X and Unix/Linux using Java
 
 For full details of the new changes in this release, see the release notes
 
-*Andrew Maitland* for the PCGEN Team -- 22 May, 2016.
+*Andrew Maitland* for the PCGEN Team -- 30 July, 2016.
 
-SHA-256 digest for pcgen-6.06.01RC1-full.zip:
-c805d03baed1c660fee3c3c5d1d24f2e2ff74722494a504b84939822f57bbb8c
+SHA-256 digest for pcgen-6.06.01-full.zip:
+4203a521495f0344641ef9463a207765d4282e5c74e6069f5f99d51de5150a18
 
-SHA-256 digest for pcgen-6.06.01RC1-sources.jar:
-d084111114a1bb729f48f67896803145a0de090fa936604b47d9c2cbf4d5fd3e
+SHA-256 digest for pcgen-6.06.01-sources.jar:
+f7e9315bf564bb64a27cb3aac3ef81cf636ff807137515a132fd768d22f9c2b8
 
-SHA-256 digest for pcgen60601RC1_win_install.exe:
-04b81ab106c219dd25e81683bd55c1d9ffe2858fd0e9028a0734674c94d3cab1
+SHA-256 digest for pcgen60601_win_install.exe:
+05b4a301a1fac05f52b567a05a1aafcd548d14bc0483c91dbcd405d34b416cf2
+
+
 
